@@ -18,7 +18,7 @@
 | Name              | Description                                                                                                                                                                                                     |
 |-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Homies |  The friends of the @ZenpieDragon                                                                                                                                                            |
-| Content Creator   | Creators with 100k+ subscribers/followers.                                                                                                                                                                      |
+| Content Creator   | Creators with 10k+ subscribers/followers.                                                                                                                                                                      |
 | Honourable Guest  | Recognized members of the community or special guests of the server.                                                                                                                                             |
 | Nitro Booster     | The one who blesses this server by [boosting](https://support.discord.com/hc/en-us/articles/360028038352-Server-Boosting-).                                                                                     |
 | Partners | Trusted collaborators and partnered communities.   |
