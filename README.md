@@ -25,20 +25,3 @@
 | Artist            | Talented artists present in the [server](https://discord.gg/zenpiedragon).                                                                                                                                     |
 | Retired Staff | Former staff members honored for their past service and dedication.                                                                                                                                     |
 | Verified Girl            | Given only to girls after voice verification.                                                                                                                                     |.                                                                                                                                     |
-
-### <h3>Level Roles</h3>
-
-| Roles | Perks Unlocked                                                             |
-|----------------------------|----------------------------------------------------------------------------|
-| Level  10+                  | Unlocks hidden channels.                                                   |
-| Level  20+                   | Permission to external emotes.                                             |
-| Level  30+                   | Permission to add reactions along with video/screen share.                 |
-| Level  40+                  | Permission to change your nickname.                                    |
-| Level  50+                  | DJ access to control player of music bots.                                 |
-| Level  60+                  | Permission to set AFK status.                                              |
-| Level  70+                  | Permission to attach/embed files across channels.                          |
-| Level  80+                  | Regular talk show with Ujjwal as well as access to sponsor's only section.  |
-| Level  90+                 | Be the part of highly exclusive stuff. (In short, a kind of pre-release!)   |
-| Level 100+                | Show off your honourable title of being on top of the server.               |
-
-> **Please Note**: The level up roles will be allotted to you after sending a particular amount of messages as mentioned above to get your perks unlocked! (Messages sent all the time are not considered, only the Mee6 leaderboard is considered.) ###
