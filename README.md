@@ -21,7 +21,6 @@
 | Content Creator   | Creators with 100k+ subscribers/followers.                                                                                                                                                                      |
 | Honourable Guest  | Recognized members of the community or special guests of the server.                                                                                                                                             |
 | Nitro Booster     | The one who blesses this server by [boosting](https://support.discord.com/hc/en-us/articles/360028038352-Server-Boosting-).                                                                                     |
-
 | Partners | Trusted collaborators and partnered communities.                                                                                                              |
                                                                                                                               |
 | Artist            | Talented artists present in the [server](https://discord.gg/zenpiedragon).                                                                                                                                     |
