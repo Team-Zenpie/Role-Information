@@ -26,7 +26,7 @@
 | Retired Staff | Former staff members honored for their past service and dedication.                                                                                                                                     |
 | Verified Girl            | Given only to girls after voice verification.                                                                                                                                     |.                                                                                                                                     |
 
-<h3>Level Roles</h3>
+### <h3>Level Roles</h3>
 
 | Roles | Perks Unlocked                                                             |
 |----------------------------|----------------------------------------------------------------------------|
@@ -41,4 +41,4 @@
 | Level  90+                 | Be the part of highly exclusive stuff. (In short, a kind of pre-release!)   |
 | Level 100+                | Show off your honourable title of being on top of the server.               |
 
-> **Please Note**: The level up roles will be allotted to you after sending a particular amount of messages as mentioned above to get your perks unlocked! (Messages sent all the time are not considered, only the Mee6 leaderboard is considered.)
+> **Please Note**: The level up roles will be allotted to you after sending a particular amount of messages as mentioned above to get your perks unlocked! (Messages sent all the time are not considered, only the Mee6 leaderboard is considered.) ###
